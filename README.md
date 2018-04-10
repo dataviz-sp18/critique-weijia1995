@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Assignment 1
 ============
 
@@ -59,5 +58,3 @@ Your submission is due by **11:00am on Tuesday, April 10th**.
 
 [1] Drawn from chapter 2 of *The Truthful Art: Data, charts, and maps for communication* by Alberto Cairo.
 =======
-# critique-weijia1995
->>>>>>> aab8bb0b243f750b737c3344c9e0a877c9fe8dd2
