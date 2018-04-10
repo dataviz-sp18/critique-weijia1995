@@ -2,7 +2,7 @@
 
 ## Part 1: Visualization critique
 
-In this critique, I am using a visualization on [Income Mobility Charts][https://www.nytimes.com/interactive/2018/03/27/upshot/make-your-own-mobility-animation.html] By [EMILY BADGER](https://www.nytimes.com/by/emily-badger), [CLAIRE CAIN MILLER](http://www.nytimes.com/by/claire-cain-miller), [ADAM PEARCE](https://www.nytimes.com/by/adam-pearce) and [KEVIN QUEALY](http://www.nytimes.com/by/kevin-quealy) made in 2018.
+In this critique, I am using a visualization on [Income Mobility Charts](https://www.nytimes.com/interactive/2018/03/27/upshot/make-your-own-mobility-animation.html) By [EMILY BADGER](https://www.nytimes.com/by/emily-badger), [CLAIRE CAIN MILLER](http://www.nytimes.com/by/claire-cain-miller), [ADAM PEARCE](https://www.nytimes.com/by/adam-pearce) and [KEVIN QUEALY](http://www.nytimes.com/by/kevin-quealy) made in 2018.
 
 The authors made several animated charts (all in one format) to present their findings in how social stratification changes in one generation. The study compared stratification between different groups, for example, white boys vs. girls, white vs. black boys,  Asian-Americans vs. whites etc. and within a certain race. The research was based on data about virtually 50,000 Americans now in their late 30s (those born between 1978 and 1983). The charts shows the movement of Americans from the class of their family of origion to their current class; it is informative that it shows the actual flow of people so we can see, for example, almost only white girls who grew up poor can became a rich adult. The main finding is that 
 
@@ -44,13 +44,13 @@ However, notwithstanding the topic matter to most, the charts only display the a
 
 ## Part 2: `ggplot2` and the grammar of graphics
 
-In this part, I am using the [Chicago Crime Rate dataset][https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2/] to illustrate the distribution of violent crimes in Chicago and near the University of Chicago.
+In this part, I am using the [Chicago Crime Rate dataset](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2/) to illustrate the distribution of violent crimes in Chicago and near the University of Chicago.
 
 ![image](https://user-images.githubusercontent.com/22485624/38532959-06644620-3c45-11e8-86e7-9f7dcd881e79.png)
 
 ### The Story - Why this topic
 
-Sixty-one victims have been shot in Chicago in the first six days of 2017, and 4368 were shot in 2016 alone, according to [Chicago Tribune][http://crime.chicagotribune.com/chicago/]. In 2015, the most recent year for which data is available for both cities, the fatal shooting rate in Chicago was five times as high as it was in New York: 15.6 per 100,000 residents compared to 2.8 per 100,000. According to a report by the University of Chicago Crime Lab, there were 762 homicides in 2016, which was about 58 percent more than in the previous year. But homicides were not the only category of crime to rise: other gun offenses, including nonfatal shootings and robberies, soared. 
+Sixty-one victims have been shot in Chicago in the first six days of 2017, and 4368 were shot in 2016 alone, according to [Chicago Tribune](http://crime.chicagotribune.com/chicago/). In 2015, the most recent year for which data is available for both cities, the fatal shooting rate in Chicago was five times as high as it was in New York: 15.6 per 100,000 residents compared to 2.8 per 100,000. According to a report by the University of Chicago Crime Lab, there were 762 homicides in 2016, which was about 58 percent more than in the previous year. But homicides were not the only category of crime to rise: other gun offenses, including nonfatal shootings and robberies, soared. 
 
 President-elect Donald Trump has been targeting the gun violence in Chicago for his opinion on guns since the beginning of his campaign. On Jan. 2nd, 2017, he tweeted: "the city’s murder rate was 'record setting' "and suggested that Mayor Rahm Emanuel should seek federal help if he “can’t do it” himself. The underlying dynamics driving the change maybe too complicated to reverse and to quantitatively understand. For ordinary people, the best we can do is to stay away from troubles whenever we can. People who have stayed in a city should know where the troubles are. But what about new-comers such as newly arrived international students from overseas who have little knowledge about Chicago? As a student it might be beneficial to know how dangerous it is to be studying in Chicago and particularly what kind of common senses we should employ if we were to live in a crime- filled metropolis. A crime map can be useful for anyone in the city who is looking for accomondation or even place to work.	
 
